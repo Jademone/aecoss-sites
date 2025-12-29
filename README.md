@@ -45,9 +45,10 @@ AECOSS vise à :
 
 ## En savoir plus
 
-- [![Website](https://img.shields.io/badge/Website-lesinvisiblesystemiques.fr-blue)](https://lesinvisiblesystemiques.fr)  
-- Présentation des activités : https://metiersetia.fr  
-- LinkedIn : https://www.linkedin.com/in/aecoss/
+[![Site](https://img.shields.io/badge/Site-Les%20Invisibles%20Systémiques-blue)](https://lesinvisiblesystemiques.fr)
+[![Activités](https://img.shields.io/badge/Présentation-Métiers%20%26%20IA-green)](https://metiersetia.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AECOSS-0A66C2?logo=linkedin)](https://www.linkedin.com/in/aecoss/)
+
 
 
 
