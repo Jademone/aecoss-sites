@@ -1,3 +1,5 @@
+![AECOSS](assets/banner.png)
+
 # AECOSS — Architecte des écosystèmes de santé éthiques et augmentés
 
 AECOSS désigne une approche systémique dédiée aux organisations de santé,
